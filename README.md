@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi,%20I'm%20Dhilipan%20Raja!&fontAlign=50&fontSize=40&animation=twinkling" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi,%20I'm%20Dhiliban%20Raja!&fontAlign=50&fontSize=40&animation=twinkling" alt="Banner" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ### 👋 About Me
 
-Hello! I’m **Dhilipan Raja**, a passionate student actively seeking professional opportunities. I love diving into technology and solving real-world problems, with a focus on **AI** and **Open Source** collaboration.
+Hello! I’m **Dhiliban Raja**, a passionate student actively seeking professional opportunities. I love diving into technology and solving real-world problems, with a focus on **AI** and **Open Source** collaboration.
 
 - 🌱 Currently learning, building, and contributing wherever I can
 - 💻 Java, React.js, JavaScript enthusiast
