@@ -30,7 +30,6 @@ Hello! I’m **Dhiliban Raja**, a B.E. Computer Science undergraduate (Expected 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust_Learning-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   
   <br>
@@ -65,7 +64,7 @@ Hello! I’m **Dhiliban Raja**, a B.E. Computer Science undergraduate (Expected 
 ### 🌐 Connect With Me
 
 - 🌍 **Portfolio:** [Dhiliban-R.github.io/Portfolio](https://Dhiliban-R.github.io/Portfolio/)
-- 💼 **LinkedIn:** [linkedin.com/in/dhilibanraja](https://linkedin.com/in/dhilibanraja)
+- 💼 **LinkedIn:** [linkedin.com/in/dhilibanraja](https://linkedin.com/in/dhilibanr)
 - 📧 **Email:** [dhilipanrc@gmail.com](mailto:dhilipanrc@gmail.com)
 
 ---
