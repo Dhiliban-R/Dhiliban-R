@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi,%20I'm%20Dhiliban%20Raja!&fontAlign=50&fontSize=40&animation=twinkling" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi,%20I'm%20Dhiliban%20R!&fontAlign=50&fontSize=40&animation=twinkling" alt="Banner" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ### 👋 About Me
 
-Hello! I’m **Dhiliban Raja**, a B.E. Computer Science undergraduate (Expected 2026 at GCE Salem), Full-Stack Developer, and NSS Incharge. I love diving into technology and solving real-world problems, with a strong focus on **AI**, Web3, and **Open Source** collaboration.
+Hello! I’m **Dhiliban R**, a B.E. Computer Science undergraduate (Expected May 2026 at GCE Salem), Full-Stack Developer, and NSS Incharge. I love diving into technology and solving real-world problems, with a strong focus on **AI**, Web3, and **Open Source** collaboration.
 
 - 🌱 **Currently building:** **LockedFI** — A project bridging real-world income to DeFi using ZK-Proofs & Agentic AI.
 - 💻 **Tech Stack:** React.js, Node.js, Firebase, Java, C, and JavaScript.
@@ -51,10 +51,10 @@ Hello! I’m **Dhiliban Raja**, a B.E. Computer Science undergraduate (Expected 
 ### 📌 Pinned Projects
 
 <p>
-  <a href="https://github.com/Dhiliban-R/Portfolio"> <img src="https://img.shields.io/badge/Modern_AI_Portfolio_&_Arthur_Chatbot-React-7c3aed?style=flat&logo=react" /> </a>
-  <a href="https://github.com/Dhiliban-R"> <img src="https://img.shields.io/badge/LockedFI-ZK--Proofs_&_Agentic_AI-f59e0b?style=flat&logo=web3.js" /> </a>
-  <a href="https://github.com/Dhiliban-R/FDMS"> <img src="https://img.shields.io/badge/Food_Donation_Platform-Firebase-blue?style=flat&logo=firebase" /> </a>
   <a href="https://github.com/Dhiliban-R/Hypr-Arch"> <img src="https://img.shields.io/badge/Hypr--Arch-Shell-informational?style=flat&logo=gnu-bash" /> </a>
+  <a href="https://github.com/Dhiliban-R/Portfolio"> <img src="https://img.shields.io/badge/Modern_AI_Portfolio_&_Arthur_Chatbot-React-7c3aed?style=flat&logo=react" /> </a>
+  <a href="https://github.com/Dhiliban-R/LockedFI"> <img src="https://img.shields.io/badge/LockedFI-ZK--Proofs_&_Agentic_AI-f59e0b?style=flat&logo=web3.js" /> </a>
+  <a href="https://github.com/Dhiliban-R/FDMS"> <img src="https://img.shields.io/badge/Food_Donation_Platform-Firebase-blue?style=flat&logo=firebase" /> </a>
   <a href="https://github.com/Dhiliban-R/NM-project"> <img src="https://img.shields.io/badge/NM--project-Jupyter-orange?style=flat&logo=jupyter" /> </a>
 </p>
 
