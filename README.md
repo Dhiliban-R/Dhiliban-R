@@ -56,7 +56,6 @@ Hello! I’m **Dhiliban R**, a B.E. Computer Science undergraduate (Expected May
   <a href="https://github.com/Dhiliban-R/Portfolio"> <img src="https://img.shields.io/badge/Modern_AI_Portfolio_&_Arthur_Chatbot-React-7c3aed?style=flat&logo=react" /> </a>
   <a href="https://github.com/Dhiliban-R/LockedFI"> <img src="https://img.shields.io/badge/LockedFI-ZK--Proofs_&_Agentic_AI-f59e0b?style=flat&logo=web3.js" /> </a>
   <a href="https://github.com/Dhiliban-R/FDMS"> <img src="https://img.shields.io/badge/Food_Donation_Platform-Firebase-blue?style=flat&logo=firebase" /> </a>
-  <a href="https://github.com/Dhiliban-R/NM-project"> <img src="https://img.shields.io/badge/NM--project-Jupyter-orange?style=flat&logo=jupyter" /> </a>
 </p>
 
 ---
