@@ -17,7 +17,6 @@ Hello! I’m **Dhiliban R**, a B.E. Computer Science undergraduate (Expected May
 - 🌱 **Currently building:** **LockedFI** — A project bridging real-world income to DeFi using ZK-Proofs & Agentic AI.
 - 💻 **Tech Stack:** React.js, Node.js, Firebase, Java, C, and JavaScript.
 - 🐧 **Environment:** Linux power user — daily driving Fedora and Arch (built from scratch with Hyprland), leveraging Bash & AI tools for automation.
-- 🤖 **Fun Fact:** I built my own personal AI assistant named **Arthur 😎** (powered by Groq Llama 3.3) directly into my portfolio!
 - 🚀 Open to collaborations, internships, and cool project ideas!
 
 ---
