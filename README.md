@@ -14,7 +14,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/dhiliban-r"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:dhilipanr01@gmail.com"><img src="https://img.shields.io/badge/Email-dhilipanr01-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="assets/docs/Dhiliban_R_Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download_PDF-10B981?style=for-the-badge&logo=googledocs&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Timezone-IST%20(UTC%2B5%3A30)-059669?style=for-the-badge&logo=clock&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=dhiliban-r&label=PROFILE+VIEWS&style=for-the-badge&color=2563EB" />
 </p>
